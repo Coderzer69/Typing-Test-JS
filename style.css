@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(26, 27, 29);
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.to_type {
+    background-color: rgb(41, 43, 46);
+    font-size: 20px;
+    width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+input {
+    background-color: rgb(41, 43, 46);
+    display: block;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    color: white;
+    border: 2px solid rgb(82, 86, 91);
+    outline: none;
+    width: 100%;
+}
+
+/* Passed Text */
+h2 {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: fit-content;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+}
