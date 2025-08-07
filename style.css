@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@200..1000&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -8,6 +10,7 @@ body {
     background-color: rgb(26, 27, 29);
     color: white;
     padding: 20px;
+    font-family: Cairo plays;
 }
 
 h1 {
@@ -46,4 +49,15 @@ h2 {
     width: fit-content;
     padding: 10px 20px;
     color: rgb(255, 255, 255);
+}
+
+.image_div {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 30px;
+    cursor: pointer;
 }
