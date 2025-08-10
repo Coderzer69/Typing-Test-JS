@@ -50,3 +50,4 @@ function checkTypo(event) {
         h2Element.style.background = "transparent";
     }
 }
+
