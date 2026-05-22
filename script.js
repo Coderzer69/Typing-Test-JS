@@ -5,8 +5,6 @@ const randomSentences = [
     "He forgot his keys at home.",
     "Rain fell softly on the rooftop.",
     "They walked slowly through the park.",
-    "I found a coin on pavement.",
-    "Music played quietly in the background.",
     "The dog barked at the stranger.",
     "He painted the wall bright blue.",
 ];
